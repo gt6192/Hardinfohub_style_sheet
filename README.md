@@ -6,6 +6,10 @@ I have written a css code to give direct and impressive design to html elements 
 Just download the code and run index.html file you get the whole preview of style and its class name, so that one can directly link css file to there project and use it.
 
 My contact details:-
+
 Phone :- +919370981456
+
 Email :- pratikgt82@gmail.com
+
 My projects :- https://www.hardinfohub.com
+<========================================>
