@@ -1226,7 +1226,7 @@ body{
     border-color: gray;
     border-style: solid;
 }
-#gt-form-text{
+.gt-form-text{
     width: 100%;
     padding: 10px;
     border-radius: 10px;
